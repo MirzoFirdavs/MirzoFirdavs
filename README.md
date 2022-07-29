@@ -1,5 +1,7 @@
 ## Hi there 👋 I am Mirzofirdavs
 
+I'm third year CS student at ITMO University.
+
 <!--
 **MirzoFirdavs/MirzoFirdavs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
